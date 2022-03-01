@@ -23,5 +23,10 @@ namespace PullRequest_Demo
         {
             Owner = newOwner;
         }
+
+        public virtual void MakeNoise()
+        {
+
+        }
     }
 }
