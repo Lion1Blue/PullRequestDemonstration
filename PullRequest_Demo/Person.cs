@@ -8,27 +8,27 @@ namespace PullRequest_Demo
 {
     class Person
     {
-        public string Vorname { get; private set; }
-        public string Nachname { get; private set; }
-        public int Alter { get; private set; }
+        public string SurName { get; private set; }
+        public string LastName { get; private set; }
+        public int Age { get; private set; }
 
         List<Person> friends = new List<Person>();
 
-        public Person(int alter, string vorname, string nachname)
+        public Person(int age, string surName, string lastName)
         {
-            Alter = alter;
-            Vorname = vorname;
-            Nachname = nachname;
+            Age = age;
+            SurName = surName;
+            LastName = lastName;
         }
 
-        public void AddFirend(Person person)
+        public void AddFirend(Person friend)
         {
-            friends.Add(person);
+            friends.Add(friend);
         }
 
-        public bool RemoveFriend(Person person)
+        public bool RemoveFriend(Person friend)
         {
-            return friends.Remove(person);
+            return friends.Remove(friend);
         }
     }
 }
