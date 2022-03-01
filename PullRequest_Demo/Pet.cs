@@ -9,10 +9,12 @@ namespace PullRequest_Demo
     class Pet
     {
         public Person Owner { get; private set; }
+        public int Age { get; private set; }
 
-        public Pet(Person owner)
+        public Pet(Person owner, int age)
         {
             Owner = owner;
+            Age = age;
         }
 
         public void ChangeOwner(Person newOwner)
