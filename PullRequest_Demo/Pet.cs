@@ -10,10 +10,12 @@ namespace PullRequest_Demo
     {
         public Person Owner { get; private set; }
         public string name { get; private set; }
+        public int Age { get; private set; }
 
-        public Pet(Person owner, string name)
+        public Pet(Person owner, int age, string name)
         {
             Owner = owner;
+            Age = age;
             this.name = name;
         }
 

@@ -24,9 +24,14 @@ namespace PullRequest_Demo
             Pet = pet;
         }
 
-        public void AddFreund(Person person)
+        public void AddFirend(Person person)
         {
             friends.Add(person);
+        }
+
+        public bool RemoveFriend(Person person)
+        {
+            return friends.Remove(person);
         }
     }
 }
