@@ -12,7 +12,7 @@ namespace PullRequest_Demo
         public string Nachname { get; private set; }
         public int Alter { get; private set; }
 
-        List<Person> freunde = new List<Person>();
+        List<Person> friends = new List<Person>();
 
         public Person(int alter, string vorname, string nachname)
         {
@@ -23,7 +23,7 @@ namespace PullRequest_Demo
 
         public void AddFreund(Person person)
         {
-            freunde.Add(person);
+            friends.Add(person);
         }
     }
 }
