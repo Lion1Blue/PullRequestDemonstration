@@ -11,7 +11,6 @@ namespace PullRequest_Demo
         public string Vorname { get; private set; }
         public string Nachname { get; private set; }
         public int Alter { get; private set; }
-        public Pet Pet { get; private set; }
 
         List<Person> friends = new List<Person>();
 
@@ -20,12 +19,11 @@ namespace PullRequest_Demo
             Alter = alter;
             Vorname = vorname;
             Nachname = nachname;
-            Pet = pet;
         }
 
         public void AddFirend(Person person)
         {
-            freunde.Add(person);
+            friends.Add(person);
         }
 
         public bool RemoveFriend(Person person)
