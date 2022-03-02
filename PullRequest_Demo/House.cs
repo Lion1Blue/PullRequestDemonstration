@@ -11,9 +11,8 @@ namespace PullRequest_Demo
         public string Adress { get; private set; }
         List<Person> residents = new List<Person>();
 
-        public House(List<Person> residents, string adress)
+        public House(List<Person> residents)
         {
-            Adress = adress;
             this.residents = residents;
         }
 
