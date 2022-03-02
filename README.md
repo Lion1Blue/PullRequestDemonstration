@@ -23,5 +23,8 @@ Dort diese dann installieren.
 [GitHubBranches]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/GitHubSettingsBranches.png.jpg  "Branches"
 ![GitHubBranches]
 
-[GitHubAddRule]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/GitHubSettingsAddRule.png.jpg  "Add Rule"
+[GitHubAddRule]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/GitHubSettingsAddBranchProtection.png.jpg  "Add Rule"
 ![GitHubAddRule]
+
+[GitHubAddRuleCreate]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/GitHubSettingsAddBranchProtection.png.jpg  "Create"
+![GitHubAddRuleCreate]
