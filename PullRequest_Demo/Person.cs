@@ -9,16 +9,16 @@ namespace PullRequest_Demo
     class Person
     {
         public string SurName { get; private set; }
-        public string LastName { get; private set; }
+        //public string LastName { get; private set; }
         public int Age { get; private set; }
 
         List<Person> friends = new List<Person>();
 
-        public Person(int age, string surName, string lastName)
+        public Person(int age, string surName) //, string lastName)
         {
             Age = age;
             SurName = surName;
-            LastName = lastName;
+            //LastName = lastName;
         }
 
         public void AddFirend(Person friend)
