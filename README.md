@@ -17,7 +17,7 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 ### Create a new Branch in Visual Studio
 
 1. Open **Team Explorer** and click the **Branches** Button.
-![Team-Explorer-Branches](Doc/Team-Explorer-Branches.png)
+![Team-Explorer-Branches](Doc/Team-Explorer-Branch.png)
 2. Click the **New Branch** link.
 3. In the "Enter a Branch Name Required" dialog box, enter a branch name.
 ![Team-Explorer-Branches-Create] (Doc/Team-Explorer-Branches-Create.png)
