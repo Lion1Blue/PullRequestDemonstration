@@ -10,7 +10,7 @@ Zuerst muss die GitHub-Erweiterung für Visual Studio installiert werden.
 [Marketplace]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/VisualStudioMarketplace.png.jpg  "Visual-Studio-Marketplace"
 ![Marketplace]
 
-Dort diese dann installieren.
+Dort diese dann installieren. Damit die Installation durchgeführt werden kann muss Visual Studio geschlossen werden.
 
 ## Brach-Protection aktivieren
 
@@ -28,3 +28,5 @@ Dort diese dann installieren.
 
 [GitHubAddRuleCreate]: https://github.com/Lion1Blue/PullRequest_Demo/blob/main/Doc/GitHubSettingsAddRuleCreate.png.jpg  "Create"
 ![GitHubAddRuleCreate]
+
+## Erstellen eines Pull Requests in Visual Studio
