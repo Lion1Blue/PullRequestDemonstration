@@ -16,7 +16,12 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 
 1. Open **TeamExplorer** and click the **Branches** Button
 ![Team-Explorer-Branches](Doc/Team-Explorer-Branches.png)
-3. Click the **New Branch** link.
+2. Click the **New Branch** link.
+3. In the "Enter a Branch Name <Required>" dialog box, enter a branch name.
+![Team-Explorer-Branches-Create](Doc/Team-Explorer-Branches-Create.png)
+4. In the Based on section, use the drop-down list to choose whether you want to base your new branch off an existing branch.
+5. The Checkout branch checkbox, which is on by default, automatically switches to the newly created branch. Toggle this option if you want to remain in the current branch.
+6. click the **Create** Button to create a new branch
 
 ### Create a Pull Request in Visual Studio
 
