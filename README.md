@@ -12,6 +12,12 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
   <img src="Doc/PullRequest_Flowchart.drawio.png" />
 </p>
 
+### Create a new Branch in Visual Studio
+
+1. Open **TeamExplorer** and click the **Branches** Button
+![Team-Explorer-Branches](Doc/Team-Explorer-Branches.png)
+3. Click the **New Branch** link.
+
 ### Create a Pull Request in Visual Studio
 
 1. Open a project in a GitHub repository.
