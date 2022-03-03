@@ -8,7 +8,12 @@ namespace PullRequest_Demo
 {
     class Cat : Pet
     {
-        
+        public Cat(Person owner = null) : base(owner)
+        {
+
+        }
+
+        public new int Age { get { return Age * 7; } private set { Age = value; }}
 
     }
 }
