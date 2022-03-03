@@ -16,11 +16,11 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 
 ### Create a new Branch in Visual Studio
 
-1. Open **Team Explorer** and click the **Branches** Button.
-![Team-Explorer-Branches](Doc/Team-Explorer-Branch.png)
+1. Open **Team Explorer** and click the **Branches** Button.   
+![Team-Explorer-Branches](Doc/Team-Explorer-Branches.png)
 2. Click the **New Branch** link.
-3. In the "Enter a Branch Name Required" dialog box, enter a branch name.
-![Team-Explorer-Branches-Create] (Doc/Team-Explorer-Branches-Create.png)
+3. In the "Enter a Branch Name Required" dialog box, enter a branch name.   
+![Team-Explorer-Branches-Create](Doc/Team-Explorer-Branches-Create.png)
 4. In the Based on section, use the drop-down list to choose whether you want to base your new branch off an existing branch.
 5. The Checkout branch checkbox, which is on by default, automatically switches to the newly created branch. Toggle this option if you want to remain in the current branch.
 6. Click the **Create** Button to create a new branch
@@ -30,15 +30,22 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 ### Create Commit to local Repository
 
 1. Make changes in the source code.
-2. Open **Team Explorer** and click the **Changes** Button.
+2. Open **Team Explorer** and click the **Changes** Button.   
 ![Team-Explorer-Changes](Doc/Team-Explorer-Changes.png)
-3. Here all changes that haven´t been commited are listed.
+3. Here all changes that haven't been commited are listed.   
 ![Team-Explorer-Commit-Create](Doc/Team-Explorer-Commit-Create.png)
-4. 
+4. In the "Enter a commit Message" dialog box, enter a commit message.   
+5. Click the **Commit All** Button to create a local commit.   
 
 <br>
 
 ### Sync Commits with remote Repository
+
+1. Open **Team Explorer** and click the **Sync** Button.   
+![Team-Explorer-Sync](Doc/Team-Explorer-Sync.png)
+2. Here all commits that haven't been pushed are listed.
+![Team-Explorer-Push-commits](Doc/Team-Explorer-Push-Commits.png)
+3. To sync your local Repository with the remote repository Click the **Push** link under "Outgoing Commits"
 
 <br>
 
@@ -52,6 +59,10 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 ![The pull request creation form in the GitHub pane](Doc/pr-create.png)
 5. Enter a pull request title and an optional description.
 6. Click the **Create Pull Request** button.
+
+<br>
+
+### Approval from Reviewer
 
 <br>
 
