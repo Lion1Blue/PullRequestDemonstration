@@ -9,3 +9,5 @@ the following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 ## [Creating a Pull Request in Visual Studio](https://github.com/github/VisualStudio/blob/master/docs/using/creating-a-pull-request.md)
 
 ## [Reviewing a Pull Request in Visual Studio](https://github.com/github/VisualStudio/blob/master/docs/using/reviewing-a-pull-request-in-visual-studio.md)
+
+## [Merging a Pull Request in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)
