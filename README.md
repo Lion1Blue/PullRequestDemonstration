@@ -62,7 +62,11 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 
 <br>
 
-### Approval from Reviewer
+### Create Review
+
+1. Open **Team Expolrer** and click the **Pull Requests** button.
+2. Double click on the pull request you want to addd your review.
+3. 
 
 <br>
 
