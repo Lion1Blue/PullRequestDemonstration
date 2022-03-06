@@ -66,13 +66,23 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 
 1. Open **Team Expolrer** and click the **Pull Requests** button.
 2. Double click on the pull request you want to add your review.
-3. Click the **Add your review** link.
+3. Click the **Add your review** link.  
 ![add_your_Raview](Doc/AddReview.png)
+4. You can write your Review.   
+5. To close your Review there are 3 options.   
+![add_your_Raview](Doc/Approval.png)
 
+#### Comment only
+This is the simplest form of a review, you just write comments to the code someone else has wirtten.
 
-<br>
+#### Approval
+You agree with all changes made to the pull request and give your **Approval** to merge the feature-branch with the main-branch.
 
-### Change Request from Reviewer
+#### Change Request
+You dont agree with the changes made to the feature-branch and request that the developer further improves the feature-branch.
+
+#### More Information
+For more Information about reviewing a pull request in Visual Studio, see [here](https://github.com/github/VisualStudio/blob/master/docs/using/reviewing-a-pull-request-in-visual-studio.md).
 
 <br>
 
