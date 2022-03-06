@@ -62,6 +62,19 @@ The following [Tutorial](https://github.blog/2018-03-23-require-multiple-reviewe
 
 <br>
 
+### Request a Review
+
+1. Nativgate to the GitHub repository.
+2. Under your repository name, click  **Pull requests**.
+![GitHub-PullRequests](Doc/GitHubPullRequests.png)
+3. In the list of pull requests, click the pull request that you'd like to ask a specific person to review.   
+4. Navigate to **Reviewers** in the right sidebar.   
+![Reviewers](Doc/PullRequestReviewer.png)
+5. To request a review from a suggested person under Reviewers, click on the name.
+
+
+<br>
+
 ### Create Review
 
 1. Open **Team Expolrer** and click the **Pull Requests** button.
@@ -87,6 +100,13 @@ For more Information about reviewing a pull request in Visual Studio, see [here]
 <br>
 
 ### Close Pull Request without merging with main-Branch
+
+1. Nativgate to the GitHub repository.
+2. Under your repository name, click  **Pull requests**.
+![GitHub-PullRequests](Doc/GitHubPullRequests.png)
+3. In the list of pull requests, click the pull request that you'd like to close. 
+4. Scroll to the bottom of the page and click **Close pull request**
+![GitHub-ClosePullRequest](Doc/ClosePullRequest.png)
 
 <br>
 
