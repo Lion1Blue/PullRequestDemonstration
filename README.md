@@ -107,9 +107,3 @@ For more Information about reviewing a pull request in Visual Studio, see [here]
 3. In the list of pull requests, click the pull request that you'd like to close. 
 4. Scroll to the bottom of the page and click **Close pull request**
 ![GitHub-ClosePullRequest](Doc/ClosePullRequest.png)
-
-<br>
-
-## [Adding Reviewer to Pull Request in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/requesting-a-pull-request-review)
-
-## [Merging a Pull Request in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)
